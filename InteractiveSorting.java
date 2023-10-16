@@ -1,5 +1,5 @@
-// https://atcoder.jp/contests/practice/tasks/practice_1
-// A - Welcome to AtCoder
+// https://atcoder.jp/contests/practice/tasks/practice_2
+// B - Interactive Sorting
 import java.util.*;
 public class Main {
 	public static void main(String[] args){
